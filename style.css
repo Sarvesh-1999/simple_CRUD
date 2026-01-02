@@ -74,7 +74,7 @@ a {
 .signup_container > h1 {
   text-align: center;
 }
-.signup_container > button {
+.signup_container button {
   background-color: #1495cc;
   color: white;
   border: 1px solid white;
